@@ -1,5 +1,5 @@
 # My Favourite Breakfast Ideas
-## list items needed to make it.
+## list of items needed to make the breakfast.
 
 ##1.Avocado
 ##2.Bread
