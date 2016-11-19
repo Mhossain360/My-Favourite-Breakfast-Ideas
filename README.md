@@ -1,15 +1,15 @@
 # My Favourite Breakfast Ideas
 ## list of items needed to make the breakfast.
-1.Avocado
+##1.Avocado
 ![](http://drjamesrouse.com/wp-content/uploads/2015/03/avocado.jpg)
-2. Bread
+##2. Bread
 
 ![](http://www.stopikaifi.gr/images/datafiles/196.jpg)
 ##3.Grapes
 ![](http://www.sun-world.com/wp-content/uploads/2015/05/thompson_category.jpg)
 ## How prepare the breakfast.
 
-Sliced the bread , avocado and grapes.
+##Sliced the bread , avocado and grapes.
 Second toast the breads.
 After that put all ingredients top of one bread slice and put another bread slice top of it.
 
