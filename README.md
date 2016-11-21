@@ -2,7 +2,7 @@
 ## List of items needed to make the breakfast.
 ## *Avocado
 ![](http://drjamesrouse.com/wp-content/uploads/2015/03/avocado.jpg)
-## *Bread
+## * Bread
 
 ![](http://www.stopikaifi.gr/images/datafiles/196.jpg)
 ## *Grapes
