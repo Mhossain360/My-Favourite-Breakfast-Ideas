@@ -1,11 +1,11 @@
 # My Favourite Breakfast Ideas
 ## List of items needed to make the breakfast.
-## 1.Avocado
+## *Avocado
 ![](http://drjamesrouse.com/wp-content/uploads/2015/03/avocado.jpg)
-## 2. Bread
+## *Bread
 
 ![](http://www.stopikaifi.gr/images/datafiles/196.jpg)
-## 3.Grapes
+## *Grapes
 ![](http://www.sun-world.com/wp-content/uploads/2015/05/thompson_category.jpg)
 ## How prepare the breakfast.
 
